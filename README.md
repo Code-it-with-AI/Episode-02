@@ -2,7 +2,7 @@
 
 In this episode, Carl Franklin and Jeff Fritz discuss the differences between instructions and prompt files as well as how you can use them to make your GitHub Copilot coding experience better.
 
-YouTube Video: 
+YouTube Video: https://youtu.be/TCPeccH5M3g
 
 Code it with AI Home Page: https://codeitwithai.com
 
